@@ -1,8 +1,7 @@
 const aoijs = require("aoi.js")
 
 const bot = new aoijs.Bot({
-    token: "ODg1MTc5NDg1MjQ1MjgwMzA2.YTjRow.cRbl2kGR9HqYgg3w0tleETnNrHQ", // Token
-    prefix: "$getServerVar[prefix]", // Prefix
+OTAxMTQ2NTQ5NDU3OTQwNTAw.YXLoHw.H-t2vjoLYcK_GDdHPYljOBqrpwk    prefix: "$getServerVar[prefix]", // Prefix
     mobile: true // Mobile presence
 })
 
